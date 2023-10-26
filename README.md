@@ -11,7 +11,7 @@ Use AI to write complete stories.
 **1. Clone Repo**
 
 ```bash
-git clone [https://github.com/RangedRhyme17/storybook-ai-main.git]
+git clone [https://github.com/RangedRhyme17/experimental-ai-r1-kk-b.git]
 ```
 
 **2. Install Dependencies**
